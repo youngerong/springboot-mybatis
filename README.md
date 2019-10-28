@@ -26,11 +26,11 @@ http://localhost:8080/books/1
 ```json
 {
   "id": 1,
-  "name": "社会研究方法教程",
-  "author": "袁方",
+  "name": "Math",
+  "author": "hawk",
   "price": 68,
-  "topic": "社会学",
-  "publishDate": 1425139200000,
+  "topic": "Sicence",
+  "publishDate": 1425139202345,
   "bookStoreId": 1
 }
 ```
